@@ -58,4 +58,10 @@
 - data为测试数据，目前还没有从数据库导入，测试数据暂为空
 - run是运行主程序
 
-
+##效果
+#### 1.异常订单详情.csv文件截图
+！[内容自填](https://github.com/duodewei/Exception_monitoring/blob/master/1.png)
+#### 2.异常情况汇总报告.csv文件截图
+！[内容自填](https://github.com/duodewei/Exception_monitoring/blob/master/2.png)
+#### 3.邮箱收到内容截图
+！[内容自填](https://github.com/duodewei/Exception_monitoring/blob/master/3.png)
